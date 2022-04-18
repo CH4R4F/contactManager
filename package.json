@@ -1,0 +1,14 @@
+{
+  "name": "contactmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./assets/tailwind/style.css -o ./assets/css/style.css -w"
+  },
+  "author": "cmarghin",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
